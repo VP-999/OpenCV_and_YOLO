@@ -1,0 +1,6 @@
+path: D:/VS_CODE/OpenCv/dataset  
+train: D:/VS_CODE/OpenCv/dataset/train/images
+val: D:/VS_CODE/OpenCv/dataset/val/images
+
+nc: 3  #  (knife, gun, fighting)
+names: ['knife', 'gun', 'fighting']  # class name
